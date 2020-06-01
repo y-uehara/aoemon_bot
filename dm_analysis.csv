@@ -1,0 +1,12 @@
+DM@Twitter,,,,
+,,,,
+created_timestamp,,,,単調増加のタイムスタンプ？
+id,,,,DMの固有ID
+message_create,target,recipient_id,,受信者のIDか？
+,sender_id,,,送信者のID
+,message_data,entities,hashtags,使わなそう
+,,,urls,使わなそう
+,,,user_mentions,使わなそう
+,,,symbols,使わなそう
+,,text,,DM本文
+type,,,,「message_create」が入っている
